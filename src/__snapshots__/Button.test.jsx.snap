@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button renders with minimal props 1`] = `[Function]`;
+
+exports[`Button renders with provided title (snapshot) 1`] = `[Function]`;

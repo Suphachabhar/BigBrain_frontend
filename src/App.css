@@ -1,0 +1,49 @@
+.text-center{
+  display: flex;
+	justify-content: center;
+  padding: 1rem;
+  margin-top: 15%;
+}
+
+.form-floating{
+  padding: .1rem;
+}
+
+.txt-header{
+  text-align: center;
+  justify-content: center;
+  font-size: 24px;
+  margin: 0px auto 20px auto;
+  max-width: 1150px;
+}
+
+h1{
+  font-size: 60px;
+}
+
+.firstsection{
+  text-align: center;
+  align-items: center;
+  margin: auto;
+}
+
+.list-group{
+  padding: .5rem;
+  width: 80%;
+  margin: auto;
+}
+
+.popup {
+  border: 2px solid black;
+  z-index: 2;
+  position: fixed;
+  background-color: white;
+  text-align: center;
+  left: 0;
+  bottom: 0;
+}
+
+.selectedAnswer {
+  font-weight: bold;
+  color: red;
+}

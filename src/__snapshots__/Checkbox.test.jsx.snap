@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InputStyle renders with minimal props 1`] = `[Function]`;
+
+exports[`InputStyle renders with provided id (snapshot) 1`] = `[Function]`;
